@@ -8,7 +8,7 @@ I'm currently study content related to Front-end development with react-native a
 
 ## 🔭 Hard-Skills
 
-   -  Front-end
+   - ###Front-end
     ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
    - #### Design 🖍
      ![Adobe-After-Effects](https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665)
