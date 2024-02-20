@@ -12,8 +12,9 @@ I'm currently study content related to Front-end development with react-native a
 </div>
 
   - #### Front-end
-    ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
     ![React-Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+  ## 🖍 Design [🔝](#menu)
     
 ## ➤ My stats:
 <div style="display: flex">
