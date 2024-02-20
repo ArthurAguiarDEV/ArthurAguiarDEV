@@ -1,6 +1,6 @@
 # Hey, I'm Arthur Aguiar!👋
 
-Frontend Instructor and Developer.
+Frontend Developer.
 
 I'm graduated in Analise e Desenvolvimento de Sistemas at [UNOPAR-PR]
 
@@ -10,7 +10,7 @@ I'm currently study content related to Front-end development with react-native a
 <div align="center">
   <img align="right" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="200px" />
 </div>
-👩‍💻 Languages 
+👩‍💻 #### Languages 
   
   - #### Front-end
     ![React-Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
