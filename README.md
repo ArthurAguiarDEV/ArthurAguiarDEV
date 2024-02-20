@@ -11,17 +11,17 @@ I'm currently study content related to Front-end development with react-native a
   <img align="right" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="200px" />
 </div>
 
-  - #### Frontend
+  - #### Front-end
     ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
     ![React-Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
     
 ## ➤ My stats:
 <div style="display: flex">
 <a href="https://github.com/EvoluWil">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=EvoluWil&theme=radical&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ArthurAguiarDEV&theme=radical&show_icons=true" />
 </a>
 <a href="https://github.com/EvoluWil">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=EvoluWil&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ArthurAguiarDEV&layout=compact&theme=radical" />
 </a>
 </div>
   
