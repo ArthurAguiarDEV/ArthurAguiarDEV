@@ -11,9 +11,10 @@ I'm currently study content related to Front-end development with react-native a
   <img align="right" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="200px" />
 </div>
   ## 👩‍💻 Languages [🔝](#menu)
+  
   - #### Front-end
     ![React-Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-    ![JavaScript]<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+    
 
   ## 🖍 Design [🔝](#menu)
     
