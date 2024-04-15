@@ -2,7 +2,7 @@
 
 Frontend Developer.
 
-I'm graduated in Analise e Desenvolvimento de Sistemas at [UNOPAR-PR]
+I'm graduated in System Analisys and Development at [UNOPAR-PR]
 
 I'm currently study content related to Front-end development with react-native and follow updates from the entire react/next.js universe
 
